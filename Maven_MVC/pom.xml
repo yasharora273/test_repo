@@ -44,12 +44,12 @@
     <repository>
         <id>central</id>
         <name>Yash-PC-releases</name>
-        <url>http://127.0.0.1/artifactory/test</url>
+        <url>http://127.0.0.1/artifactory/test_repo</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>Yash-PC-snapshots</name>
-        <url>http://127.0.0.1/artifactory/test_snapshots</url>
+        <url>http://127.0.0.1/artifactory/test_virtual_snapshots</url>
     </snapshotRepository>
 </distributionManagement>
 

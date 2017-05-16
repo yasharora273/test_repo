@@ -1,0 +1,5 @@
+projectKey=maven:Maven_MVC
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/maven:Maven_MVC
+ceTaskId=AVwSw1ITo-ZSt1wCOUWw
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVwSw1ITo-ZSt1wCOUWw
